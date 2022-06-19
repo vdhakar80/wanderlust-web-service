@@ -1,0 +1,495 @@
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sachin.kumarkk\Desktop\wanderlustreact-master\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sachin.kumarkk\Desktop\wanderlustreact-master\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sachin.kumarkk\Desktop\wanderlustreact-master\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sachin.kumarkk\Desktop\wanderlustreact-master\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sachin.kumarkk\Desktop\wanderlustreact-master\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Incorrect password
+    at C:\Users\sachin.kumarkk\Desktop\wanderlustreact-master\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\sachin.kumarkk\Desktop\wanderlustreact-master\Code-ToTrainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
+TypeError: connection.getBookingCollection.then is not a function
+    at Object.exports.bookingSetup (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\setupBooking.js:9:44)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\userRouter.js:17:40
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+TypeError: connection.getDestinationCollection.then is not a function
+    at Object.exports.destinationSetup (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\setupDestination.js:732:48)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\userRouter.js:17:48
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+ReferenceError: setupUser is not defined
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\app.js:16:18
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\utilities\RequestLogger.js:8:5)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at jsonParser (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\body-parser\lib\types\json.js:110:7)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+ReferenceError: obj is not defined
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\userslogin.js:55:43
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+<<<<<<< HEAD
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+=======
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+ReferenceError: obj is not defined
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\userslogin.js:55:43
+    at runMicrotasks (<anonymous>)
+>>>>>>> 47db47f332953dc02a309fc5e8237f9e8586ac20
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+TypeError: bookingDealsService.getBookingDeals is not a function
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:8:44
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+TypeError: bookingDealsService.getBookingDeals is not a function
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:8:44
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+TypeError: bookingDealsService.getBookingDeals is not a function
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:8:44
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+TypeError: bookingDealsService.getBookingDeals is not a function
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:8:44
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+TypeError: Cannot read property 'checkInDate' of undefined
+    at Object.bookingDetailsService.getByBookingId (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\bookingDetails.js:5:39)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\deleteRouter.js:21:34
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+TypeError: Cannot read property 'checkInDate' of undefined
+    at Object.bookingDetailsService.getByBookingId (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\bookingDetails.js:5:39)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\deleteRouter.js:22:34
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+TypeError: Cannot read property 'checkInDate' of undefined
+    at Object.bookingDetailsService.getByBookingId (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\bookingDetails.js:5:39)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\deleteRouter.js:22:34
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+TypeError: Cannot read property 'checkInDate' of undefined
+    at Object.bookingDetailsService.getByBookingId (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\bookingDetails.js:5:39)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\deleteRouter.js:22:34
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+<<<<<<< HEAD
+Error: Incorrect password
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+=======
+Error: User already exists with given contact number
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+>>>>>>> 65e51d8911b8580963c1b4db8e4872c2a439cf44
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+ValidationError: Bookings validation failed: checkInDate: Cast to date failed for value "Invalid Date" at path "checkInDate", checkOutDate: Cast to date failed for value "Invalid Date" at path "checkOutDate"
+    at model.Document.invalidate (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2626:32)
+    at model.$set (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1290:12)
+    at model._handleIndex (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1019:14)
+    at model.$set (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:960:22)
+    at model.Document (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:150:12)
+    at model.Model (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:106:12)
+    at new model (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4687:15)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3053:22
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3089:7
+    at Array.forEach (<anonymous>)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3088:15
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:30:10)
+    at Function.create (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3023:10)
+    at Object.bookingDetailsDB.getBookingDetails (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\bookingDetails.js:21:41)
+ValidationError: Bookings validation failed: checkInDate: Cast to date failed for value "Invalid Date" at path "checkInDate", checkOutDate: Cast to date failed for value "Invalid Date" at path "checkOutDate"
+    at model.Document.invalidate (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2626:32)
+    at model.$set (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1290:12)
+    at model._handleIndex (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1019:14)
+    at model.$set (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:960:22)
+    at model.Document (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:150:12)
+    at model.Model (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:106:12)
+    at new model (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4687:15)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3053:22
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3089:7
+    at Array.forEach (<anonymous>)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3088:15
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:30:10)
+    at Function.create (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3023:10)
+    at Object.bookingDetailsDB.getBookingDetails (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\bookingDetails.js:21:41)
+ValidationError: Bookings validation failed: checkInDate: Cast to date failed for value "Invalid Date" at path "checkInDate", checkOutDate: Cast to date failed for value "Invalid Date" at path "checkOutDate"
+    at model.Document.invalidate (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:2626:32)
+    at model.$set (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1290:12)
+    at model._handleIndex (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:1019:14)
+    at model.$set (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:960:22)
+    at model.Document (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\document.js:150:12)
+    at model.Model (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:106:12)
+    at new model (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:4687:15)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3053:22
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3089:7
+    at Array.forEach (<anonymous>)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3088:15
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:31:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\helpers\promiseOrCallback.js:30:10)
+    at Function.create (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\mongoose\lib\model.js:3023:10)
+    at Object.bookingDetailsDB.getBookingDetails (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\bookingDetails.js:21:41)
+Error: User already exists with given contact number
+<<<<<<< HEAD
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: User already exists with given contact number
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+    at runMicrotasks (<anonymous>)
+=======
+    at C:\Users\mansi.sawaj\Documents\Project group 22\react-wanderlust-1\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:32:23
+>>>>>>> 8ec80aa7d00079c67338246f6d51130910b79c09
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Enter registered contact number! If not registered, please register
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:9:23
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Incorrect password
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+TypeError: bookingService.getByBookingId is not a function
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:52:27
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:335:12)
+Error: Incorrect password
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:19:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: only 0 packages are left
+    at Object.bookingsService.createBooking (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\booking.js:44:23)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:52:27
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+Error: only 0 packages are left
+    at Object.bookingsService.createBooking (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\booking.js:44:23)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:52:27
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7
+Error: only 0 packages are left
+    at Object.bookingsService.createBooking (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\booking.js:44:23)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\bookingRouter.js:52:27
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\node_modules\express\lib\router\index.js:284:7

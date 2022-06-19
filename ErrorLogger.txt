@@ -1,0 +1,70 @@
+Error: Incorrect password
+    at C:\Users\shivangi.gupta09\Documents\PROJECT\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\userslogin.js:16:31
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:37:23)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:30:20
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:37:23)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:30:20
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:37:23)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:30:20
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:8:494)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:10:174
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:8:494)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:10:174
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:8:494)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:10:174
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:8:494)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:10:174
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:8:494)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:10:174
+Error: Cannot fetch the details from the continents
+    at Object.hotDealsService.getPackagesBySearch (C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:8:494)
+    at processTicksAndRejections (node:internal/process/task_queues:93:5)
+    at async C:\Users\vicky.dhakar\Documents\fa4project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:10:174
+Error: Could not connect to Database
+    at E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\utilities\connections.js:94:19
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async Object.hotDealsDB.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\package.js:7:17)
+    at async Object.hotDealsService.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:11:20)
+    at async E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:14:20
+Error: Could not connect to Database
+    at E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\utilities\connections.js:94:19
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async Object.hotDealsDB.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\package.js:7:17)
+    at async Object.hotDealsService.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:11:20)
+    at async E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:14:20
+Error: Could not connect to Database
+    at E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\utilities\connections.js:94:19
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async Object.hotDealsDB.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\package.js:7:17)
+    at async Object.hotDealsService.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:11:20)
+    at async E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:14:20
+Error: Could not connect to Database
+    at E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\utilities\connections.js:94:19
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async Object.hotDealsDB.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\package.js:7:17)
+    at async Object.hotDealsService.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:11:20)
+    at async E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:14:20
+Error: Could not connect to Database
+    at E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\utilities\connections.js:94:19
+    at processTicksAndRejections (node:internal/process/task_queues:94:5)
+    at async Object.hotDealsDB.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\model\package.js:7:17)
+    at async Object.hotDealsService.getHotDeals (E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\service\package.js:11:20)
+    at async E:\study material\infosys\training project\react-wanderlust\Wanderlust_Code_To_Trainee\wanderlust-web-service\src\routes\packageRouter.js:14:20
